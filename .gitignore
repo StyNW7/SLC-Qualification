@@ -1,0 +1,71 @@
+# ===== R =====
+
+# History & session files
+.Rhistory
+.Rapp.history
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files & folders
+.Rproj.user/
+*.Rproj
+
+# Package build & check
+.Rcheck/
+.Rbuildignore
+
+# Output files
+*.log
+*.out
+*.tmp
+
+# Caches
+cache/
+.Rcache/
+
+# Knitr / R Markdown output
+*.html
+*.pdf
+*.docx
+*.md
+
+# Figures
+figures/
+plots/
+
+# Data (optional, jika data besar)
+data/*.csv
+data/*.rds
+data/*.xlsx
+
+
+
+# ===== RapidMiner =====
+
+# Temporary files
+*.tmp
+*.log
+
+# Cache & runtime
+.cache/
+temp/
+tmp/
+
+# RapidMiner system folders
+.local/
+.system/
+.configuration/
+
+# Backup files
+*.bak
+*.backup
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Exported results (optional)
+results/
+output/
