@@ -1,0 +1,43 @@
+LC128 - Stanley Nathanael Wijaya
+=======================================
+
+Linear Regression + Moving Average + Smoothing + Probability Distribution:
+
+[Ice Cream Sales]
+https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales
+
+----------------
+
+Multiple Linear Regression + Binomial Logistic Regression:
+
+[Student Performance]
+https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression
+
+----------------
+
+Multinomial Logistic Regression + K-means Clustering:
+
+[Penguins Species]
+https://www.kaggle.com/datasets/youssefaboelwafa/clustering-penguins-species/data
+
+----------------
+
+Market Basket Analysis:
+
+[MLBB Heroes]
+I randomize my own datasets using this for inspiration
+
+https://www.kaggle.com/datasets/christina0512/mobile-legends-bang-bang-mlbb-hero-dataset
+
+----------------
+
+Naive Bayes Classification:
+
+[Password Strengthness]
+I create my own datasets and this is the idea inspiration
+
+https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset
+
+
+Total:
+5++ Different Datasets
