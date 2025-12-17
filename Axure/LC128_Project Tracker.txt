@@ -1,0 +1,47 @@
+LC128 - Stanley Nathanael Wijaya
+
+Project Tracker
+============================
+
+[v] Menggunakan software Axure RP 9.
+[v] Tema tidak boleh sama dengan asisten lain, silakan lakukan listing tema.
+
+	[v] Kami sudah melakukan listing tema untuk seluruh Assistant yang mengerjakan Qualification
+	[v] Tema saya: Binusmaya Mobile
+
+[v] Binusmaya Prototype
+
+	[v] Jumlah halaman minimal 5.
+		[v] Terbuat 6 halaman
+
+	[v] Jenis komponen form minimal 6.
+		[v] Name (text), DOB (date), NIM(number), Email (email), Password (password), Terms (checkbox), etc
+
+	[v] Terdapat total minimal 5 validasi form pada komponen yang berbeda.
+		[v] Seluruh komponen form terdapat validasinya masing-masing (Register dan Login)
+
+	[v] Memiliki fitur tab control, image carousel, dan repeater.
+		[v] Tab Control: Halaman Schedule, etc
+		[v] Image Carousel: Halaman Dashboard
+		[v] Repeater: Halaman Notification
+
+	[v] Setiap halaman memiliki menu yang dapat diakses.
+		[v] Ada Navigation Bar di bagian Bottom
+
+	[v] Memiliki minimal 5 macam interaktifitas
+		[v] Dashboard Page: Page Loaded --> Set Panel State (Slideshow)
+		[v] Login and Register Button: Click or Tap (Case Validation --> Direct Page)
+		[v] Notification Page: Item Loaded --> Set Text and Set Image
+		[v] Role and Profile (Master): Mouse Enter and Mouse Exit --> Set Size (Profile Picture)
+		[v] Role and Profile (Master): Loaded and Selection Changed --> Set Variable Value
+		
+		[v] Interactions diatas sudah ada 7 dan masih ada banyak lagi interactions yang saya gunakan
+
+Catatan
+========================
+
+[] Design Page: Segala desain yang di-archieved
+[] Archieved Register Page: Page Register yang tidak digunakan lagi
+
+
+Sekian, Terima kasih :D
