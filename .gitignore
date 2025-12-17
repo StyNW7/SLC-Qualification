@@ -25,22 +25,9 @@
 cache/
 .Rcache/
 
-# Knitr / R Markdown output
-*.html
-*.pdf
-*.docx
-*.md
-
 # Figures
 figures/
 plots/
-
-# Data (optional, jika data besar)
-data/*.csv
-data/*.rds
-data/*.xlsx
-
-
 
 # ===== RapidMiner =====
 
@@ -65,7 +52,3 @@ tmp/
 # OS-specific
 .DS_Store
 Thumbs.db
-
-# Exported results (optional)
-results/
-output/
