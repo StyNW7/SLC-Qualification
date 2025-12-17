@@ -1,0 +1,7 @@
+Email Spamming Classification NLP (Case 1):
+https://www.kaggle.com/datasets/datatattle/email-classification-nlp
+
+IMBD Review (Case 2):
+https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format
+
+Source: Kaggle
