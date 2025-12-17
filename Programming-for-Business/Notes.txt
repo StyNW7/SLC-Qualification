@@ -1,0 +1,11 @@
+Programming for Business - NW25-1
+
+Theme: Tasks Management
+
+- Page Stucture => Login, Register, Dashboard (Home), Profile Page, Add & Edit Tasks
+- Session & Cookie => Done
+- CRUD Feature => Create Tasks, Display all tasks (dashboard), edit tasks (update), delete tasks
+- Form Validation => ./js/validation.js
+- Design => Application Design fully using css and I think the UI/UX Design is nice and intuitive
+
+Thank you :)
