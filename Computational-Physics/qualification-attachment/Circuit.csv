@@ -1,0 +1,13 @@
+Inductor_filter,wire,Ammeter_Isource,wire,wire,wire,wire,wire,wire,wire
+Diode_D1,,,,wire,,,wire,,wire
+wire,,,,wire,,,wire,,wire
+wire,wire,wire,,wire,,,wire,,Resistor_Cfilter
+Resistor_Rsource,,wire,,Ammeter_Ioad,,,wire,,wire
+wire,,wire,,wire,,,wire,,wire
+wire,,Voltmeter_source,,Resistor_load,,,Voltmeter_diode,,Capacitor_filter
+wire,,wire,,wire,,,wire,,wire
+VoltageSource_Vsource,,wire,,wire,,,wire,,wire
+wire,,wire,,wire,,,wire,,wire
+wire,wire,wire,,wire,,,wire,,wire
+wire,,,,wire,,,wire,,wire
+wire,wire,wire,wire,wire,wire,wire,wire,wire,wire

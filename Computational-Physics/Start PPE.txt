@@ -1,0 +1,18 @@
+Dalam Folder Software Master
+
+1. Jalankan script library
+
+	environments\computational_physics\Scripts\activate.bat
+
+2. Pindah directory
+
+	cd ppe_webapp_py3_4_4_0/simulator_interface
+
+2.5 Jika pertama kali membuka PPE
+
+	python manage.py makemigrations simulations
+	python manage.py migrate
+
+3. Jalankan server
+
+	python manage.py runserver
